@@ -4,14 +4,24 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" style="vertical-align: middle;" />
 </h2>
 
-<h3 align="center"><font face="Arial">Bilal is a DevOps👩‍💻and Cloud Engineer🌩</font></h3>
-
 ![Fading Line](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
 
+![GitHub Banner](https://drive.google.com/uc?export=view&id=1Cm5dTw-HZUpOl-TkbrbNdAAIEVh1vvnM)
+
+<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
+
+
+<h3 align="center"><font face="Arial">Bilal is a DevOps👩‍💻and Cloud Engineer🌩</font></h3>
+
+
+
 <!-- Schedule a 1-on-1 Call Section -->
-<h3 align="centre"><font size="+2" face="Verdana">Schedule a 1-on-1 Call Or Dm me on LinkedIn:👇</font></h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/muhammadbilaldev/" target="_blank" rel="noreferrer" > Book a Call with me! </a>
+<h3 align="center"><font size="+2" face="Verdana">Schedule a 1-on-1 Call 👇 Dm me on LinkedIn</font></h3>
+
+
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/muhammadbilaldev/" target="_blank" rel="noreferrer" > </a>
 </p>
 
 <p align="center">
