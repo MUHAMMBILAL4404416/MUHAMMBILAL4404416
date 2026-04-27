@@ -1,6 +1,14 @@
+<h2 align="center">
+  <img src="https://media.tenor.com/ftqs42Yna-oAAAAi/mochi-mochi-hello-white-mochi-mochi.gif" alt="" width="7%" style="vertical-align: middle;" />
+  Hi, I am Muhammad Bilal 
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" style="vertical-align: middle;" />
+</h2>
+
+![Fading Line](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
+
 <!-- Header Section -->
-<h1 align="center"><font face="Arial">Hi👋, I am Muhammad Bilal 😊</font></h1>
-<h3 align="center"><font face="Arial">Bilal is a DevOps and Cloud Engineer</font></h3>
+
+<h3 align="center"><font face="Arial">Bilal is a DevOps👩‍💻 and Cloud Engineer🌩</font></h3>
 
 <!-- Schedule a 1-on-1 Call Section -->
 <h3 align="centre"><font size="+2" face="Verdana">Schedule a 1-on-1 Call Or Dm me on LinkedIn:👇</font></h3>
@@ -8,8 +16,16 @@
   <a href="https://www.linkedin.com/in/muhammadbilaldev/" target="_blank" rel="noreferrer" > Book a Call with me! </a>
 </p>
 
+<p align="center">
+ <!-- <a href="https://gsap.com/" target="blank">
+  <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="Zeeshan Mukhtar" />
+ </a> -->
+ <a href="https://www.linkedin.com/in/muhammadbilaldev/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Zeeshan Mukhtar"/>
+ </a>
+  </p>
 <!-- GIF -->
-<img align="centre" height="300" width="500" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" />
+<img align="centre" height="500" width="1100" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" />
 
 
 <h3 align="left">Programming Language Stack:</h3>
@@ -40,4 +56,8 @@
   <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a>
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
  
+## GitHub Contribution Snake 🐍
 
+<div align="center">
+<img  src="https://raw.githubusercontent.com/ZeeshanMukhtar1/ZeeshanMukhtar1/output/github-contribution-grid-snake.svg" alt="contribution graph" />
+</div>
